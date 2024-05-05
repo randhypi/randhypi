@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @randhypi
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Android-kotlin
+- 🌱 I’m currently Android Software Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me linkedin.com/in/randhypi or randhypradanairsan@gmail.com
 
